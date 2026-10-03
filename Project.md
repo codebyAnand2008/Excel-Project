@@ -12,7 +12,7 @@ Data set used for this project
 📦 Order Status: 92% of orders were delivered, with smaller portions cancelled, returned, and refunded.
 👥 Age & Gender Analysis: Compared order contribution across Adult, Senior, and Teenager segments.
 
- href="<img width="1829" height="616" alt="Screenshot 2026-10-03 085013" src="https://github.com/user-attachments/assets/9f81a96c-5371-477f-953d-e825405572e6" /> 
+ "<img width="1829" height="616" alt="Screenshot 2026-10-03 085013" src="https://github.com/user-attachments/assets/9f81a96c-5371-477f-953d-e825405572e6" /> 
 🧰 Tools & Skills
 
 Microsoft Excel | Pivot Tables | Pivot Charts | Slicers | Data Visualization | Data Analysis | Dashboard Design
