@@ -3,7 +3,7 @@
 I recently built an interactive annual sales dashboard for Vrinda Store using Microsoft Excel, focusing on transforming sales data into clear, actionable business insights. Data set used for this project
 
 dataset view
-- <a href="https://github.com/codebyAnand2008/Excel-Project/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx>Dataset</a>
+- <a href="https://github.com/codebyAnand2008/Excel-Project/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset</a>
 
 🔍 Dashboard Highlights
 📈 Monthly Orders & Sales: Tracked order volume and sales trends across all 12 months. 👩 Customer Demographics: Women contributed 64% of sales, compared with 36% from men. 🛒 Sales Channels: Amazon (35%) generated the largest share of orders, followed by Myntra (23%) and Flipkart (22%). 🗺️ Top States by Sales: Maharashtra (₹2.99M), Karnataka (₹2.65M) and Uttar Pradesh (₹2.10M) were among the leading markets. 📦 Order Status: 92% of orders were delivered, with smaller portions cancelled, returned, and refunded. 👥 Age & Gender Analysis: Compared order contribution across Adult, Senior, and Teenager segments.
